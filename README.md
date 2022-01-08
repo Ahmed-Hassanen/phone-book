@@ -1,12 +1,7 @@
 # phone book app in assembly language
 ---
-## team members
 - Ahmed Mohamed Hasaneen
-- Ahmed Mohamed Abdullah
-- Ahmed Magdy Abdelrahman
-- Ahmed Ashraf Qasem
-- Mario George Shafik
----
+
 ## Project idea 
 the application allow you to perform simple phone book operations 
 - you can do th following operations
